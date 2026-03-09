@@ -1,0 +1,10 @@
+{
+  "vultr_api_key": "<vultr api key>",
+  "region": "ewr",
+  "provider": "vultr",
+  "default_size": "vc2-1c-1gb",
+  "sshkey": "axiom_rsa",
+  "op": "<redacted>",
+  "imageid": "axiom-default-<timestamp>",
+  "provisioner": "default"
+}
