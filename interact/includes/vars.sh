@@ -41,6 +41,7 @@ export GCloudCliVersion="493.0.0"
 export PackerVersion="1.11.2"
 export ScalewayCliVersion="2.34.0"
 export ExoscaleCliVersion="1.84.0"
+export VultrCliVersion="3.8.0"
 
 # Auto Update Option
 [ -f $AXIOM_PATH/interact/includes/.auto_update ] && source $AXIOM_PATH/interact/includes/.auto_update
